@@ -62,7 +62,7 @@
 
 ```bash
 # Склонируйте репозиторий
-git clone https://github.com/anna93/analytics-dash.git 
+git clone https://github.com/anarooom/analytics-dash.git 
 cd analytics-dash
 
 # Установите зависимости
